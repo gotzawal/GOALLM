@@ -5,3 +5,4 @@ GOAP is game setting.
 LLM is server that control NPC.
 
 You need "Vertex AI claude API key" and "ngrok token".
+![image](https://github.com/user-attachments/assets/a96b21b9-31fa-496e-98cf-6a3145dbd66c)
